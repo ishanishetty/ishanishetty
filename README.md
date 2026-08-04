@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+RVCE;Machine+Learning+%26+Backend+Engineer;Building+Scalable%2C+Intelligent+Systems;Researcher+%7C+Published+Author" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Machine+Learning;Aspiring+SDE+%2F+AI-ML+Engineer;Researcher+%7C+Published+Author" />
 
 </div>
 
@@ -16,12 +16,12 @@
 
 ## About
 
-Software Engineering student at **RV College of Engineering**, focused on building intelligent, production-grade systems at the intersection of **AI/ML**, **backend engineering**, and **distributed computing**. Experienced in designing risk-scoring engines, real-time streaming architectures, and explainable ML pipelines, with peer-reviewed research published in the field.
+Computer Science & Engineering student at **RV College of Engineering** with a strong foundation in data structures, algorithms, software engineering, and applied machine learning. Comfortable working across the stack, from backend APIs and databases to ML model development, with hands-on project and research experience.
 
-- 🎓 B.E. in Computer Science (Data Science), CGPA **9.47 / 10**
-- 🔬 Core interests: Machine Learning · Explainable AI · Deep Learning · Distributed Systems · Backend Development
-- 🌱 Currently exploring: Large Language Models · Graph AI · Scalable ML Systems · MLOps
-- ✍️ Author of published and under-review research in applied ML and data systems
+- 🎓 B.E. in Computer Science & Engineering, CGPA **9.47 / 10**
+- 💻 Core areas: Data Structures & Algorithms · Software Development · Machine Learning · Backend Development
+- 🌱 Currently exploring: Large Language Models · Deep Learning · MLOps
+- ✍️ Author of published and under-review research in applied machine learning
 - 🏅 Top 12 Finalist, Sandbox'25 Hackathon
 - 🎗️ Director, Public Image Avenue — Rotaract Club of RVCE
 
@@ -36,13 +36,13 @@ Software Engineering student at **RV College of Engineering**, focused on buildi
 <td width="50%" valign="top">
 
 **🛡️ Guardrail IAM Console**
-Enterprise identity risk platform detecting identity sprawl and privileged access abuse across AD, AWS IAM, and Okta. Built an 8-rule risk-scoring engine mapped to MITRE ATT&CK and NIST SP 800-53.
+Identity risk detection platform for identifying identity sprawl and privileged access abuse across AD, AWS IAM, and Okta, with a rule-based risk-scoring engine mapped to MITRE ATT&CK and NIST SP 800-53.
 
 </td>
 <td width="50%" valign="top">
 
 **⚡ RADAR**
-Replay-aware distributed real-time streaming framework, benchmarked against industry baselines with reproducible quantitative results.
+A real-time data streaming framework built around replay-aware processing, evaluated against existing streaming baselines.
 
 </td>
 </tr>
@@ -50,13 +50,13 @@ Replay-aware distributed real-time streaming framework, benchmarked against indu
 <td width="50%" valign="top">
 
 **🧠 Digital Twin — Parkinson's Progression**
-Digital twin platform for Parkinson's disease progression prediction using an XGBoost + LSTM fusion model on the PPMI dataset.
+An ML pipeline for predicting Parkinson's disease progression using an XGBoost + LSTM fusion model on the PPMI dataset.
 
 </td>
 <td width="50%" valign="top">
 
 **🌍 Uranium Risk Analysis**
-Explainable machine learning system for quantifying and evaluating natural uranium contamination risk in groundwater.
+An explainable ML system for quantifying and evaluating natural uranium contamination risk in groundwater.
 
 </td>
 </tr>
@@ -64,13 +64,13 @@ Explainable machine learning system for quantifying and evaluating natural urani
 <td width="50%" valign="top">
 
 **🔍 Cybercrime Investigation Platform**
-AI-powered digital evidence intelligence system using DistilBERT ensemble classification and Neo4j graph-based fraud ring detection, with SHA-256 chain of custody.
+A digital evidence intelligence system using DistilBERT-based text classification and Neo4j graph analysis for fraud ring detection, with SHA-256 chain-of-custody tracking.
 
 </td>
 <td width="50%" valign="top">
 
 **🏷️ Trademark Conflict Detection**
-Multimodal deep learning system for trademark conflict detection using CLIP (ViT-B/32 + FAISS) and CNN + BERT fusion scoring.
+A multimodal ML system for detecting trademark conflicts, combining CLIP-based image similarity (ViT-B/32 + FAISS) with a CNN + BERT text-image fusion model.
 
 </td>
 </tr>
