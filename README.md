@@ -10,26 +10,33 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Machine+Learning;Aspiring+SDE+%2F+AI-ML+Engineer;Researcher+%7C+Published+Author" />
 
+<br>
+
+<img src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20AI--ML%20Opportunities-3B82F6?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ishanishetty&style=for-the-badge&color=3B82F6&label=Profile+Views"/>
+
 </div>
 
 <br>
 
 ## About
 
-Computer Science & Engineering student at **RV College of Engineering** with a strong foundation in data structures, algorithms, software engineering, and applied machine learning. Comfortable working across the stack, from backend APIs and databases to ML model development, with hands-on project and research experience.
+CS & Engineering student at **RV College of Engineering** (CGPA 9.47/10) with a foundation in data structures, algorithms, and applied machine learning — comfortable across backend development and ML model building, backed by hands-on projects and published research.
 
-- 🎓 B.E. in Computer Science & Engineering, CGPA **9.47 / 10**
-- 💻 Core areas: Data Structures & Algorithms · Software Development · Machine Learning · Backend Development
-- 🌱 Currently exploring: Large Language Models · Deep Learning · MLOps
-- ✍️ Author of published and under-review research in applied machine learning
-- 🏅 Top 12 Finalist, Sandbox'25 Hackathon
-- 🎗️ Director, Public Image Avenue — Rotaract Club of RVCE
+- 💻 Core areas: DSA · Software Development · Machine Learning · Backend Development
+- ✍️ Published and under-review research in applied machine learning
+- 🏅 Top 12 Finalist, Sandbox'25 Hackathon · Director, Public Image Avenue — Rotaract Club of RVCE
 
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3&width=100%"/>
 
 ## Featured Projects
+
+*Pinned on my profile below — or browse all repositories [here](https://github.com/ishanishetty?tab=repositories).*
 
 <table>
 <tr>
@@ -158,8 +165,14 @@ A multimodal ML system for detecting trademark conflicts, combining CLIP-based i
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
+**Let's connect —**
 
-**Thanks for stopping by — feel free to explore my repositories and reach out.**
+<a href="https://linkedin.com/in/ishani-shetty-19o"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shettyishani2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ishanishetty"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/></a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
 
 </div>
