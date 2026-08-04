@@ -138,12 +138,12 @@ A multimodal ML system for detecting trademark conflicts, combining CLIP-based i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishanishetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanishetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishanishetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&cache_seconds=1800"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanishetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&cache_seconds=1800"/>
 
-<img src="https://streak-stats.demolab.com?user=ishanishetty&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6"/>
+<img src="https://streak-stats.demolab.com?user=ishanishetty&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&cache_seconds=1800"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanishetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanishetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff&cache_seconds=1800"/>
 
 </div>
 
