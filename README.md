@@ -1,174 +1,165 @@
-<p align="center">
-  <img src="YOUR_BANNER_HERE" alt="Banner"/>
-</p>
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm <b>Ishani Shetty</b>
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Ishani%20Shetty&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=32&pause=1200&color=3B82F6&center=true&vCenter=true&width=1000&lines=AI+%7C+Backend+%7C+Distributed+Systems;Machine+Learning+Engineer;Software+Developer;Building+Intelligent+Systems;Always+Learning+🚀" />
-  </a>
-</p>
+<a href="https://linkedin.com/in/ishani-shetty-19o"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shettyishani2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ishanishetty"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
 
----
+<br><br>
 
-# 👩‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Software+Engineering+Student+%40+RVCE;Machine+Learning+%26+Backend+Engineer;Building+Scalable%2C+Intelligent+Systems;Researcher+%7C+Published+Author" />
 
-🎓 Computer Science (Data Science) student at **RV College of Engineering**
+</div>
 
-💡 Passionate about solving real-world problems using **Artificial Intelligence**, **Backend Engineering**, and **Distributed Systems**
+<br>
 
-🔬 Interested in
+## About
 
-- Machine Learning
-- Explainable AI
-- Deep Learning
-- Backend Development
-- Distributed Computing
-- Data Science
+Software Engineering student at **RV College of Engineering**, focused on building intelligent, production-grade systems at the intersection of **AI/ML**, **backend engineering**, and **distributed computing**. Experienced in designing risk-scoring engines, real-time streaming architectures, and explainable ML pipelines, with peer-reviewed research published in the field.
 
-🌱 Currently exploring
+- 🎓 B.E. in Computer Science (Data Science), CGPA **9.47 / 10**
+- 🔬 Core interests: Machine Learning · Explainable AI · Deep Learning · Distributed Systems · Backend Development
+- 🌱 Currently exploring: Large Language Models · Graph AI · Scalable ML Systems · MLOps
+- ✍️ Author of published and under-review research in applied ML and data systems
+- 🏅 Top 12 Finalist, Sandbox'25 Hackathon
+- 🎗️ Director, Public Image Avenue — Rotaract Club of RVCE
 
-- Large Language Models
-- Graph AI
-- Scalable ML Systems
-- MLOps
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3&width=100%"/>
 
-# 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛡️ Guardrail IAM Console | Enterprise Identity Risk Platform |
-| ⚡ RADAR | Replay-Aware Distributed Streaming Platform |
-| 🧠 Digital Twin | Parkinson's Disease Progression Prediction |
-| 🌍 Uranium Risk Analysis | Explainable Machine Learning for Environmental Risk |
-| 🔍 Cybercrime Investigation | AI-powered Digital Evidence Intelligence System |
-| 🏷️ Trademark Detection | Multimodal Deep Learning using CLIP & CNN-BERT |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+**🛡️ Guardrail IAM Console**
+Enterprise identity risk platform detecting identity sprawl and privileged access abuse across AD, AWS IAM, and Okta. Built an 8-rule risk-scoring engine mapped to MITRE ATT&CK and NIST SP 800-53.
 
-# 🛠 Tech Stack
+</td>
+<td width="50%" valign="top">
 
-### Languages
+**⚡ RADAR**
+Replay-aware distributed real-time streaming framework, benchmarked against industry baselines with reproducible quantitative results.
 
-<p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Digital Twin — Parkinson's Progression**
+Digital twin platform for Parkinson's disease progression prediction using an XGBoost + LSTM fusion model on the PPMI dataset.
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 Uranium Risk Analysis**
+Explainable machine learning system for quantifying and evaluating natural uranium contamination risk in groundwater.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Cybercrime Investigation Platform**
+AI-powered digital evidence intelligence system using DistilBERT ensemble classification and Neo4j graph-based fraud ring detection, with SHA-256 chain of custody.
+
+</td>
+<td width="50%" valign="top">
+
+**🏷️ Trademark Conflict Detection**
+Multimodal deep learning system for trademark conflict detection using CLIP (ViT-B/32 + FAISS) and CNN + BERT fusion scoring.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3&width=100%"/>
+
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql"/>
-</p>
 
-### AI / Machine Learning
-
-<p>
+**AI / Machine Learning**
+<br>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+<br>
+<code>Scikit-learn</code> <code>XGBoost</code> <code>SHAP</code> <code>Pandas</code> <code>NumPy</code>
 
-Scikit-learn • XGBoost • SHAP • Pandas • NumPy
-
----
-
-### Backend
-
-<p>
+**Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask,react"/>
-</p>
+<br>
+<code>REST APIs</code> <code>Express.js</code>
 
-REST APIs • Express.js
-
----
-
-### Databases
-
-<p>
+**Data Infrastructure**
+<br>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
-</p>
+<br>
+<code>Neo4j</code> <code>Apache Kafka</code> <code>Apache Spark</code>
 
-Neo4j • Apache Kafka • Apache Spark
-
----
-
-### Tools
-
-<p>
+**Tools**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode"/>
-</p>
 
----
+</div>
 
-# 📚 Publications
+<br>
 
-📄 **Machine Learning-Based Quantification and Risk Evaluation of Natural Uranium in Groundwater**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3&width=100%"/>
 
-*Under Review – Springer Nature*
+## Publications
 
-📄 **Silent Attrition: A Methodological Framework and Simulation-Based Feasibility Study for Detecting Hidden Worker Disengagement**
+| Title | Status |
+|---|---|
+| Machine Learning-Based Quantification and Risk Evaluation of Natural Uranium in Groundwater | Under Review — *Springer Nature* |
+| Silent Attrition: A Methodological Framework and Simulation-Based Feasibility Study for Detecting Hidden Worker Disengagement | Published — *IJSREM* |
 
-*Published – IJSREM*
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3B82F6,100:1E3A8A&height=3&width=100%"/>
 
-# 🏆 Achievements
+## GitHub Analytics
 
-🥇 Top 12 Finalist — Sandbox'25 Hackathon
+<div align="center">
 
-🎓 CGPA: **9.47 / 10**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishanishetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanishetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 
-🌟 Director – Public Image Avenue, Rotaract Club of RVCE
+<img src="https://streak-stats.demolab.com?user=ishanishetty&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6"/>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanishetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff"/>
 
-# 📊 GitHub Stats
+</div>
 
-<p align="center">
+<br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<!--
+  Animated contribution snake — to activate this, add the workflow file
+  provided alongside this README (snake.yml) to .github/workflows/ in your
+  ishanishetty/ishanishetty profile repo. GitHub Actions will then generate
+  and commit an animated snake that "eats" your contribution graph daily.
+-->
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/ishanishetty/ishanishetty/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-</p>
+</div>
 
-<p align="center">
+<br>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<div align="center">
 
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:3B82F6&height=120&section=footer"/>
 
----
+**Thanks for stopping by — feel free to explore my repositories and reach out.**
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🌐 Connect with Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/ishani-shetty-19o">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:shettyishani2023@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/ishanishetty">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting! Feel free to explore my repositories and connect with me.
-
-</p>
+</div>
