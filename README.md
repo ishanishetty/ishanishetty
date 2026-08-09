@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Ishani%20Shetty&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Backend%20%7C%20Distributed%20Systems&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:1E3A8A&height=220&section=header&text=Ishani%20Shetty&fontSize=45&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
 
 <a href="https://linkedin.com/in/ishani-shetty-19o"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:shettyishani2023@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
