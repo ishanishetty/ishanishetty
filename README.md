@@ -8,13 +8,9 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Machine+Learning;Aspiring+SDE+%2F+AI-ML+Engineer;Researcher+%7C+Published+Author" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Machine+Learning;Researcher+%7C+Published+Author" />
 
 <br>
-
-<img src="https://img.shields.io/badge/Open%20to-SDE%20%2F%20AI--ML%20Opportunities-3B82F6?style=for-the-badge"/>
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=ishanishetty&style=for-the-badge&color=3B82F6&label=Profile+Views"/>
 
@@ -24,11 +20,12 @@
 
 ## About
 
-CS & Engineering student at **RV College of Engineering** (CGPA 9.47/10) with a foundation in data structures, algorithms, and applied machine learning — comfortable across backend development and ML model building, backed by hands-on projects and published research.
+CS & Engineering student at **RV College of Engineering** (CGPA 9.47/10), with a strong grounding in data structures, algorithms, and applied machine learning, plus hands-on experience building and shipping backend systems.
 
-- 💻 Core areas: DSA · Software Development · Machine Learning · Backend Development
-- ✍️ Published and under-review research in applied machine learning
-- 🏅 Top 12 Finalist, Sandbox'25 Hackathon · Director, Public Image Avenue — Rotaract Club of RVCE
+- 💻 **Core areas:** DSA · Software Development · Machine Learning · Backend Development
+- 📄 **Research:** Published and under-review papers in applied machine learning
+- 🏅 **Recognition:** Top 12 Finalist, Sandbox'25 Hackathon
+- 🏅 **Leadership:** Director - Public Image Avenue , Rotaract Club of RVCE
 
 <br>
 
@@ -93,7 +90,7 @@ A multimodal ML system for detecting trademark conflicts, combining CLIP-based i
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,mysql"/>
 
 **AI / Machine Learning**
 <br>
@@ -129,6 +126,7 @@ A multimodal ML system for detecting trademark conflicts, combining CLIP-based i
 |---|---|
 | Machine Learning-Based Quantification and Risk Evaluation of Natural Uranium in Groundwater | Under Review — *Springer Nature* |
 | Silent Attrition: A Methodological Framework and Simulation-Based Feasibility Study for Detecting Hidden Worker Disengagement | Published — *IJSREM* |
+| Multimodal Trademark Conflict Detection Using Deep Learning: A Comparative Study of CLIP and CNN+BERT Architectures | Published - *NCCV 2026* |
 
 <br>
 
@@ -138,12 +136,16 @@ A multimodal ML system for detecting trademark conflicts, combining CLIP-based i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ishanishetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&cache_seconds=1800"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishanishetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&cache_seconds=1800"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=ishanishetty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ishanishetty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6"/>
 
-<img src="https://streak-stats.demolab.com?user=ishanishetty&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&cache_seconds=1800"/>
+<img src="https://streak-stats.demolab.com?user=ishanishetty&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanishetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff&cache_seconds=1800"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ishanishetty&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=ffffff"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ishanishetty&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4"/>
 
 </div>
 
