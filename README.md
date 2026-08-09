@@ -8,7 +8,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Software+Development+%7C+Machine+Learning;Researcher+%7C+Published+Author" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+%28Data+Science%29+Student;Curious+Builder+%7C+Always+Learning;Software+Development+%7C+Machine+Learning;Researcher+%7C+Published+Author" />
 
 <br>
 
@@ -20,7 +20,7 @@
 
 ## About
 
-CS & Engineering student at **RV College of Engineering** (CGPA 9.47/10), with a strong grounding in data structures, algorithms, and applied machine learning, plus hands-on experience building and shipping backend systems.
+CS & Engineering (Data Science) student at **RV College of Engineering** (CGPA 9.47/10), with a strong grounding in data structures, algorithms, and applied machine learning, plus hands-on experience building and shipping backend systems.
 
 - 💻 **Core areas:** DSA · Software Development · Machine Learning · Backend Development
 - 📄 **Research:** Published and under-review papers in applied machine learning
