@@ -26,6 +26,9 @@ CS & Engineering (Data Science) student at **RV College of Engineering** (CGPA 9
 - 📄 **Research:** Published and under-review papers in applied machine learning
 - 🏅 **Recognition:** Top 12 Finalist, Sandbox'25 Hackathon
 - 🏅 **Leadership:** Director - Public Image Avenue , Rotaract Club of RVCE
+- 🏅 **Experience:**
+          Project Intern CPP-2 at HPE  ( Sept 2025 - Jan 2026 )
+          IBM Skillsbuild - CSRBOX Virtual Internship   ( Jun 2026 - Aug 2026 )
 
 <br>
 
